@@ -1,0 +1,5 @@
+---
+master: pe-debian6
+clients:
+ - pe-debian6-2
+ - pe-centos5

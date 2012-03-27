@@ -1,7 +1,4 @@
 #!/bin/bash -x
-fission start pe-debian6
-fission start pe-debian6-2
-fission start pe-centos5
 fission snapshot revert pe-debian6 Master
 fission snapshot revert pe-debian6-2 Agent
 fission snapshot revert pe-centos5 Agent

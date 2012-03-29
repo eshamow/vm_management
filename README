@@ -1,0 +1,5 @@
+Note: this stuff basically exists to manage my own Fusion environment...
+it's not a terribly general case and makes a lot of assumptions specific
+to my environment.
+
+Requires fission and Net::SSH v2 gems.
